@@ -70,7 +70,7 @@ const App: () => Node = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="proyecto 04-peliculasJScriptApp...Step One">
+          <Section title="proyecto vamo los pibes 04-peliculasJScriptApp...Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
             Bolas
