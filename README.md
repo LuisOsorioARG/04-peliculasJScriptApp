@@ -11,3 +11,13 @@ Aqui desarrollamos el ejemplo del curso de udemy que empieza en la sección 10 A
 Bastará con ejecutar este comando:
 
 ```npm run android```
+
+** Links externos ** 
+Esta es el backend que consume esta aplicacion. Usuario: losorio75
+
+https://www.themoviedb.org/?language=es
+
+Para acceder tenes que tener un usuario y password ya que son personalizados.
+Para ver mi token tenes que iniciar, ir a Configuraciones y luego a API. Ahi vas a tener la clave API y el Token de acceso.
+
+
